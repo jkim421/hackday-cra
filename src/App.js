@@ -23,7 +23,7 @@ function App() {
           Check against pushed branch
         </p>
         <p>
-          Await! Log it. Its working? I think so! Holup. Scrollmore.
+          Await! Log it. Its working? I think so! Fixed key.
         </p>
         <a
           className="App-link"
