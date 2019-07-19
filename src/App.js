@@ -13,6 +13,9 @@ function App() {
         <p>
           New line of code. more new code. Push with permissions updated.
         </p>
+        <p>
+          Another New line of code. more new code.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
