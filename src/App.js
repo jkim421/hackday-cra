@@ -17,7 +17,7 @@ function App() {
           Another New line of code. more new code.
         </p>
         <p>
-          Comparison working. Wuestoin?
+          Comparison working. Yes it will.
         </p>
         <a
           className="App-link"
