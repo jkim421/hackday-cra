@@ -17,7 +17,7 @@ function App() {
           Another New line of code. more new code.
         </p>
         <p>
-          New code #4.
+          Get hte context.
         </p>
         <a
           className="App-link"
