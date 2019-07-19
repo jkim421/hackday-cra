@@ -20,7 +20,7 @@ function App() {
           Comparison working?
         </p>
         <p>
-          Log the comparison.
+          Log the comparison. Destructurd.
         </p>
         <a
           className="App-link"
