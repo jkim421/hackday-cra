@@ -22,6 +22,9 @@ function App() {
         <p>
           Check against pushed branch
         </p>
+        <p>
+          Await!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
