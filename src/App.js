@@ -16,6 +16,9 @@ function App() {
         <p>
           Another New line of code. more new code.
         </p>
+        <p>
+          New code #3.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
