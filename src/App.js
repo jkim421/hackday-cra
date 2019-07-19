@@ -26,7 +26,7 @@ function App() {
           Await! Log it. Its working? I think so! Fixed key.
         </p>
         <p>
-          Once more.
+          Once more. Log it.
         </p>
         <a
           className="App-link"
