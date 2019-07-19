@@ -17,7 +17,7 @@ function App() {
           Another New line of code. more new code.
         </p>
         <p>
-          Get hte context.
+          Comparison working.
         </p>
         <a
           className="App-link"
