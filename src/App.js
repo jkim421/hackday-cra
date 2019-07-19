@@ -25,6 +25,9 @@ function App() {
         <p>
           Await! Log it. Its working? I think so! Fixed key.
         </p>
+        <p>
+          Once more.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
