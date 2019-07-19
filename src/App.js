@@ -23,7 +23,7 @@ function App() {
           Check against pushed branch
         </p>
         <p>
-          Await!
+          Await! Log it.
         </p>
         <a
           className="App-link"
