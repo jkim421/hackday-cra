@@ -20,7 +20,7 @@ function App() {
           Comparison working?
         </p>
         <p>
-          Log the comparison. Destructured....
+          Check against pushed branch
         </p>
         <a
           className="App-link"
