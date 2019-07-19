@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload. Updated 2.
         </p>
         <p>
-          New line of code. more new code. Wildcard works?
+          New line of code. more new code. Push with permissions updated.
         </p>
         <a
           className="App-link"
